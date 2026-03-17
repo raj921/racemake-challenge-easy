@@ -1,4 +1,4 @@
-# RACEMAKE – Engineer – [Your Name]
+
 
 **Challenge: Standard (sector analysis pipeline)**
 
@@ -21,7 +21,3 @@ Single-lap analysis (Level 1), stint analysis (Level 2), and scaling notes (Leve
 
 ---
 
-## Submit
-
-Zip this folder and email to **weare@racemake.com**  
-Subject: **RACEMAKE – Engineer – [Your Name]**
